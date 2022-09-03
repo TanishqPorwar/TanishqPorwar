@@ -1,22 +1,36 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3BZUV3YDMMScRydQDH/giphy.gif" width="150px">
+  <img src="https://github.com/TanishqPorwar/TanishqPorwar/blob/master/assets/Intro.gif">
   <br><br>
   <samp>
-    Hi,:wave: I'm Tanishq Porwar Android Devloper and ML enthusiast :octocat:. Student at M S Ramaiah University of Applied Sciences Bangalore :india:
+    Hey there :wave: I'm Tanishq Porwar a Full Stack Developer :octocat:. Studied at M S Ramaiah University of Applied Sciences 2022, currently working in the fintech team at <strong>Ninjacart</strong>. I love to explore and learn new things. I always try to work on a side project or explore something new, get in touch if you want to collaborate on projects.
   </samp>
 </p>
 
-## :pencil2: My Projects: :trophy:       
-
-- Aadhya App: &nbsp; [![Generic badge](https://img.shields.io/badge/Google%20Play-Get-brightgreen.svg)](https://play.google.com/store/apps/details?id=io.github.cynergy.dwimay_app&hl=en) &nbsp; [![Generic badge](https://img.shields.io/badge/App%20Store-Get-brightgreen.svg)](https://apps.apple.com/in/app/aadhya/id1500103678)
-
-- Object Detection App: &nbsp; [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TanishqPorwar/flutter_object_detection)
-
-- Movie Ticket Booking App: &nbsp; [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TanishqPorwar/the_cinema)
-
-- Chat App: &nbsp; [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TanishqPorwar/chat_app)
-
-- Machine Learning Projects: &nbsp;  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TanishqPorwar/Machine_Learning)
+<h2>🚀 Some Tools I Use</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35" height="35" />
+</p>
 
 
 ## :mailbox: Get in touch: 💬
